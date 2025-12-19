@@ -20,7 +20,12 @@
 ---
 
 ## 🤔 **느낀점과 배운점**
-- **TCP 통신의 흐름(Client → Server → Client)**을 명확히 이해할 수 있었습니다.
+- **TCP 통신의 흐름(Client → Server → Client)** 을 명확히 이해할 수 있었습니다.
 - 멀티스레드 환경에서의 동기화 문제를 직접 경험하며 lock의 중요성을 배웠습니다.
     - 여러 개의 스레드가 동시에 공유 자원에 접근하여 문제가 생겼습니다. 하지만 lock을 사용해서 공유 자원을 보호하는 방법으로 해결했습니다.
+---
+
+## 📄 프로젝트 자료
+[티스토리로 이동](https://fridayfreebie.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/TCP%20Chat%20%28Network%29)
+
 ---
