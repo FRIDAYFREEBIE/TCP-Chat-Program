@@ -58,6 +58,6 @@
   </a>
 </p>
 
-[Visit Tistory Blog](https://fridayfreebie.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/TCP%20Chat%20%28Network%29)
+[Tistory Blog](https://fridayfreebie.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/TCP%20Chat%20%28Network%29)
 
 ---
