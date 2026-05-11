@@ -51,13 +51,13 @@
 
 ## 📄 Project Resources
 
-## 🎮 Project Video (YouTube)
+**Project Video (YouTube)**
 <p align="center">
   <a href="https://youtu.be/pCu02KphBsg">
     <img src="https://img.youtube.com/vi/pCu02KphBsg/maxresdefault.jpg" width="500">
   </a>
 </p>
 
-[Tistory Blog](https://fridayfreebie.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/TCP%20Chat%20%28Network%29)
+[TCP Chat Blog Post](https://fridayfreebie.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/TCP%20Chat%20%28Network%29)
 
 ---
